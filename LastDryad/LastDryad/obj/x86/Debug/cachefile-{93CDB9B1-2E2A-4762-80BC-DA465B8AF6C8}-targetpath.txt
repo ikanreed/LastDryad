@@ -1,0 +1,3 @@
+Content\LeafyStencil.xnb
+Content\menuselector.xnb
+Content\randomstandin.xnb

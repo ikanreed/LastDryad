@@ -1,0 +1,9 @@
+C:\Users\ikanreed\Documents\Visual Studio 2010\Projects\LastDryad\LastDryad\LastDryad\bin\x86\Debug\LastDryad.exe
+C:\Users\ikanreed\Documents\Visual Studio 2010\Projects\LastDryad\LastDryad\LastDryad\bin\x86\Debug\LastDryad.pdb
+C:\Users\ikanreed\Documents\Visual Studio 2010\Projects\LastDryad\LastDryad\LastDryad\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ikanreed\Documents\Visual Studio 2010\Projects\LastDryad\LastDryad\LastDryad\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ikanreed\Documents\Visual Studio 2010\Projects\LastDryad\LastDryad\LastDryad\obj\x86\Debug\LastDryad.exe
+C:\Users\ikanreed\Documents\Visual Studio 2010\Projects\LastDryad\LastDryad\LastDryad\obj\x86\Debug\LastDryad.pdb
+C:\Users\ikanreed\Documents\Visual Studio 2010\Projects\LastDryad\LastDryad\LastDryad\bin\x86\Debug\Content\LeafyStencil.xnb
+C:\Users\ikanreed\Documents\Visual Studio 2010\Projects\LastDryad\LastDryad\LastDryad\bin\x86\Debug\Content\menuselector.xnb
+C:\Users\ikanreed\Documents\Visual Studio 2010\Projects\LastDryad\LastDryad\LastDryad\bin\x86\Debug\Content\randomstandin.xnb
